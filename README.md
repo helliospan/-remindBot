@@ -1,1 +1,1 @@
-# -remindBot
+# remindBot
